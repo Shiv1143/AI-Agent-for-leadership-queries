@@ -18,15 +18,17 @@ The core guarantee: the agent only answers from what’s in your documents — i
 Quickstart
 1. Open the notebook
 Upload AI_Leadership_Insight_Agent.ipynb to Google Colab or click Open in Colab if hosted on GitHub.
-2. Get an Open AI API key
+https://colab.research.google.com/drive/19kHRI6mEY9bmydpq0J6jGMdhz_ej54Ko?usp=sharing
 
-3. Run all cells
+3. Get an Open AI API key
+
+4. Run all cells
 The notebook will prompt you to enter your API key securely, then:
 	∙	Install all dependencies automatically
 	∙	Load the built-in sample documents
 	∙	Build the vector index
 	∙	Launch the Gradio chat UI
-4. Ask questions
+5. Ask questions
 Use the chat interface or run individual question cells
 
 
